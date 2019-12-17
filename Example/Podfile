@@ -1,0 +1,6 @@
+use_frameworks!
+target 'VAudioMerge_Tests' do
+  pod 'VAudioMerge', :path => '../'
+  
+  
+end
