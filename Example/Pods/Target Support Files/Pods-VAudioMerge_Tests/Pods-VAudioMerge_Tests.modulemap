@@ -1,0 +1,6 @@
+framework module Pods_VAudioMerge_Tests {
+  umbrella header "Pods-VAudioMerge_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

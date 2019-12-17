@@ -1,0 +1,16 @@
+PODS:
+  - VAudioMerge (0.1.0)
+
+DEPENDENCIES:
+  - VAudioMerge (from `../`)
+
+EXTERNAL SOURCES:
+  VAudioMerge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VAudioMerge: b173d768170bf354c69480f347fa8a347eb96d93
+
+PODFILE CHECKSUM: 46c33a36d16f15415ffd45da509286db9fb22e40
+
+COCOAPODS: 1.6.1

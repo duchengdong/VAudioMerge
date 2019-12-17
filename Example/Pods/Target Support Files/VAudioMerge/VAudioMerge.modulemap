@@ -1,0 +1,6 @@
+framework module VAudioMerge {
+  umbrella header "VAudioMerge-umbrella.h"
+
+  export *
+  module * { export * }
+}
