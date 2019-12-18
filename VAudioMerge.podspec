@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VAudioMerge'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'A short description of VAudioMerge.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'VAudioMerge/Classes/**/*'
+#  s.source_files = 'VAudioMerge/*.{h,m}'
+#    s.source_files = 'VAudioMerge/Classes/*.{h,m}'
+    s.source_files = 'VAudioMerge/Classes/**.*'
   
   # s.resource_bundles = {
   #   'VAudioMerge' => ['VAudioMerge/Assets/*.png']

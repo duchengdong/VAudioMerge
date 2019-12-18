@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "VAudioMerge.h"
 
 FOUNDATION_EXPORT double VAudioMergeVersionNumber;
 FOUNDATION_EXPORT const unsigned char VAudioMergeVersionString[];
