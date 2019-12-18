@@ -1,6 +1,6 @@
 {
   "name": "VAudioMerge",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "A short description of VAudioMerge.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/duchengdong/VAudioMerge",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/duchengdong/VAudioMerge.git",
-    "tag": "0.0.2"
+    "tag": "0.0.4"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.3"
   },
-  "source_files": "VAudioMerge/Classes/**/*"
+  "source_files": "VAudioMerge/Classes/*.{h,m}",
+  "public_header_files": "Pod/Classes/*.h"
 }
