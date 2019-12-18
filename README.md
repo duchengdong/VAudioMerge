@@ -22,7 +22,7 @@ pod 'VAudioMerge'
 
 ## Author
 
-duchengdong, cddu@iflytek.com
+duchengdong, 2936523332@qq.com
 
 ## License
 
